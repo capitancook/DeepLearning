@@ -1,6 +1,5 @@
 # apprendimento-rete-neurale
 
-# perceptron
 
 Per eseguire su Google Colab il quaderno "classificazione.ipynb" clickate su questo pulsante:
 
